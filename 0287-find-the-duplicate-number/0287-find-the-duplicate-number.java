@@ -1,17 +1,26 @@
 class Solution {
     public int findDuplicate(int[] nums) {
+        int slow = nums[0];
+        int fast = nums[0];
 
-        HashMap<Integer,Integer> map=new HashMap<>();
+        // Find intersection point
+        while (true) {
+            slow = nums[slow];          // move 1 step
+            fast = nums[nums[fast]];    // move 2 steps
 
-        for(int num:nums){
-            if(map.containsKey(num)){
-                return num;
-            }
-            else{
-                map.put(num,1);
+            if (slow == fast) {         // cycle detected
+                break;
             }
         }
-        return -1;
 
+       //arko phase find cycle
+        slow = nums[0];
+
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
+        }
+
+        return slow;  // duplicate number
     }
 }
