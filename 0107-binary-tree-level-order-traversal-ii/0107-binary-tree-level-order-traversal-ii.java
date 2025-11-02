@@ -37,8 +37,10 @@ class Solution {
 
 
             }
-            result.addFirst(levelOrder);
+            
+            result.add(levelOrder);
         }
+        Collections.reverse(result);
         return result;
         
     }
