@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/brihat2590/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/brihat2590/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/brihat2590/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -62,5 +63,10 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/brihat2590/Leetcode/tree/master/0053-maximum-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/brihat2590/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/brihat2590/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
