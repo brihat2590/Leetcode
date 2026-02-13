@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/brihat2590/Leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/brihat2590/Leetcode/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/brihat2590/Leetcode/tree/master/0175-combine-two-tables) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/brihat2590/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/brihat2590/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
