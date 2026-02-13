@@ -74,4 +74,8 @@
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brihat2590/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/brihat2590/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
