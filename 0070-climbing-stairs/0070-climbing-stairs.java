@@ -1,27 +1,23 @@
 class Solution {
-    static int[] dp;
-
     public int climbStairs(int n) {
-        // Initialize dp array once
-        dp = new int[n + 1];
-        for (int i = 0; i <= n; i++) {
-            dp[i] = -1;
-        }
-        return helper(n);
+
+        int[] dp=new int[n+1];
+        Arrays.fill(dp,-1);
+
+
+        return helper(n,dp);       
+        
     }
+    public int helper(int n,int[] dp){
+        if(n==1) return 1;
+        if(n==2) return 2;
 
-    private int helper(int n) {
-        // Base cases
-        if (n == 1) return 1;
-        if (n == 2) return 2;
-
-        // Memoization check
-        if (dp[n] != -1) {
+        if(dp[n]!=-1){
             return dp[n];
+            //already cached;
         }
+        dp[n]=helper(n-1,dp)+helper(n-2,dp);
 
-        // Recursive relation
-        dp[n] = helper(n - 1) + helper(n - 2);
         return dp[n];
     }
 }
