@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/brihat2590/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/brihat2590/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/brihat2590/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/brihat2590/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
