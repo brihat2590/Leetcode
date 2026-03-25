@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/brihat2590/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0682-baseball-game](https://github.com/brihat2590/Leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brihat2590/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/brihat2590/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0384-shuffle-an-array](https://github.com/brihat2590/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+| [0682-baseball-game](https://github.com/brihat2590/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/brihat2590/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/brihat2590/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/brihat2590/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/brihat2590/Leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/brihat2590/Leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
