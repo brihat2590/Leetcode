@@ -86,6 +86,7 @@
 | [0283-move-zeroes](https://github.com/brihat2590/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/brihat2590/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0384-shuffle-an-array](https://github.com/brihat2590/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/brihat2590/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/brihat2590/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/brihat2590/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/brihat2590/Leetcode/tree/main/0706-design-hashmap/) | Easy |
@@ -136,4 +137,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/brihat2590/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/brihat2590/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
