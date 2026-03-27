@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/brihat2590/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/brihat2590/Leetcode/tree/master/0258-add-digits) |
+| [0371-sum-of-two-integers](https://github.com/brihat2590/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0384-shuffle-an-array](https://github.com/brihat2590/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/brihat2590/Leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Dynamic Programming
@@ -131,4 +132,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/brihat2590/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/brihat2590/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
