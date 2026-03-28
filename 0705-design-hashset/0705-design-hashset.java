@@ -1,5 +1,6 @@
 class MyHashSet {
     boolean[] set;
+
     public MyHashSet() {
         set=new boolean[1000001];
         
@@ -11,7 +12,6 @@ class MyHashSet {
     }
     
     public void remove(int key) {
-
         set[key]=false;
         
     }
