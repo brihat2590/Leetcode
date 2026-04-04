@@ -65,6 +65,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/brihat2590/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/brihat2590/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/brihat2590/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/brihat2590/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -83,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/brihat2590/Leetcode/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/brihat2590/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brihat2590/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/brihat2590/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/brihat2590/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -145,4 +147,8 @@
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/brihat2590/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/brihat2590/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/brihat2590/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
