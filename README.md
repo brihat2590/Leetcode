@@ -121,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/brihat2590/Leetcode/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/brihat2590/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
