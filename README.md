@@ -133,6 +133,7 @@
 | [0183-customers-who-never-order](https://github.com/brihat2590/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/brihat2590/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/brihat2590/Leetcode/tree/main/0197-rising-temperature/) | Easy |
+| [0619-biggest-single-number](https://github.com/brihat2590/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
