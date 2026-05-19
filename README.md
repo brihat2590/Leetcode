@@ -45,6 +45,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/brihat2590/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/brihat2590/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/brihat2590/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@
 | [0706-design-hashmap](https://github.com/brihat2590/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/brihat2590/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/brihat2590/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2540-minimum-common-value](https://github.com/brihat2590/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@
 | [1512-number-of-good-pairs](https://github.com/brihat2590/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/brihat2590/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/brihat2590/Leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2540-minimum-common-value](https://github.com/brihat2590/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brihat2590/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/brihat2590/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
