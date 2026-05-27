@@ -137,6 +137,7 @@
 | [0183-customers-who-never-order](https://github.com/brihat2590/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/brihat2590/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/brihat2590/Leetcode/tree/main/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/brihat2590/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/brihat2590/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/brihat2590/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0619-biggest-single-number](https://github.com/brihat2590/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
