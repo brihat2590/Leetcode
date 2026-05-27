@@ -140,6 +140,7 @@
 | [0577-employee-bonus](https://github.com/brihat2590/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/brihat2590/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0619-biggest-single-number](https://github.com/brihat2590/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/brihat2590/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/brihat2590/Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/brihat2590/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Simulation
