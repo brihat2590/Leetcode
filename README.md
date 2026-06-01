@@ -62,6 +62,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/brihat2590/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/brihat2590/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2784-check-if-array-is-good](https://github.com/brihat2590/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/brihat2590/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/brihat2590/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2540-minimum-common-value](https://github.com/brihat2590/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/brihat2590/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/brihat2590/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/brihat2590/Leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/brihat2590/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/brihat2590/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
