@@ -59,6 +59,7 @@
 | [0088-merge-sorted-array](https://github.com/brihat2590/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/brihat2590/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/brihat2590/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0414-third-maximum-number](https://github.com/brihat2590/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/brihat2590/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/brihat2590/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +110,7 @@
 | [0283-move-zeroes](https://github.com/brihat2590/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/brihat2590/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0384-shuffle-an-array](https://github.com/brihat2590/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+| [0414-third-maximum-number](https://github.com/brihat2590/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/brihat2590/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/brihat2590/Leetcode/tree/main/0682-baseball-game/) | Easy |
