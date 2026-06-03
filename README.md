@@ -76,6 +76,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/brihat2590/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/brihat2590/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/brihat2590/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/brihat2590/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -102,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/brihat2590/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/brihat2590/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/brihat2590/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/brihat2590/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/brihat2590/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -200,5 +202,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/brihat2590/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/brihat2590/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
