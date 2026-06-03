@@ -102,6 +102,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/brihat2590/Leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/brihat2590/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/brihat2590/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/brihat2590/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brihat2590/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -130,6 +131,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/brihat2590/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brihat2590/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/brihat2590/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Database
@@ -195,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/brihat2590/Leetcode/tree/main/1114-print-in-order/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/brihat2590/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
