@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/brihat2590/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/brihat2590/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/brihat2590/Leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/brihat2590/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0384-shuffle-an-array](https://github.com/brihat2590/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
@@ -109,6 +110,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/brihat2590/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brihat2590/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/brihat2590/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0204-count-primes](https://github.com/brihat2590/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/brihat2590/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/brihat2590/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/brihat2590/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -163,6 +165,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/brihat2590/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/brihat2590/Leetcode/tree/master/0258-add-digits) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -204,4 +207,8 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/brihat2590/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/brihat2590/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/brihat2590/Leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
