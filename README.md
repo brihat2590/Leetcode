@@ -11,6 +11,7 @@
 | [0371-sum-of-two-integers](https://github.com/brihat2590/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0384-shuffle-an-array](https://github.com/brihat2590/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0507-perfect-number](https://github.com/brihat2590/Leetcode/tree/main/0507-perfect-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/brihat2590/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/brihat2590/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/brihat2590/Leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Dynamic Programming
@@ -66,6 +67,7 @@
 | [0414-third-maximum-number](https://github.com/brihat2590/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/brihat2590/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/brihat2590/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/brihat2590/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2784-check-if-array-is-good](https://github.com/brihat2590/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Heap (Priority Queue)
@@ -123,6 +125,7 @@
 | [0384-shuffle-an-array](https://github.com/brihat2590/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/brihat2590/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/brihat2590/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/brihat2590/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/brihat2590/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/brihat2590/Leetcode/tree/main/0705-design-hashset/) | Easy |
