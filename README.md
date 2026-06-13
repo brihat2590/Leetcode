@@ -93,6 +93,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0705-design-hashset](https://github.com/brihat2590/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/brihat2590/Leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/brihat2590/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/brihat2590/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/brihat2590/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/brihat2590/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -135,6 +136,7 @@
 | [0682-baseball-game](https://github.com/brihat2590/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/brihat2590/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/brihat2590/Leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/brihat2590/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/brihat2590/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/brihat2590/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/brihat2590/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -212,6 +214,7 @@
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/brihat2590/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/brihat2590/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/brihat2590/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/brihat2590/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
