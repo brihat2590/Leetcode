@@ -178,6 +178,7 @@
 | [1667-fix-names-in-a-table](https://github.com/brihat2590/Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/brihat2590/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/brihat2590/Leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/brihat2590/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
