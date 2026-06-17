@@ -69,6 +69,7 @@
 | [0268-missing-number](https://github.com/brihat2590/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/brihat2590/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/brihat2590/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/brihat2590/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/brihat2590/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/brihat2590/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -91,6 +92,7 @@
 | [0169-majority-element](https://github.com/brihat2590/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/brihat2590/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/brihat2590/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/brihat2590/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/brihat2590/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/brihat2590/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -134,6 +136,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/brihat2590/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0384-shuffle-an-array](https://github.com/brihat2590/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/brihat2590/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/brihat2590/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/brihat2590/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/brihat2590/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
