@@ -131,6 +131,7 @@
 | [0088-merge-sorted-array](https://github.com/brihat2590/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/brihat2590/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/brihat2590/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/brihat2590/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brihat2590/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/brihat2590/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/brihat2590/Leetcode/tree/main/0204-count-primes/) | Medium |
@@ -171,6 +172,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/brihat2590/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/brihat2590/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/brihat2590/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/brihat2590/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brihat2590/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/brihat2590/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [2540-minimum-common-value](https://github.com/brihat2590/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
