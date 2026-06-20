@@ -1,32 +1,23 @@
 class Solution {
     public int findMin(int[] nums) {
-
         int left=0;
         int right=nums.length-1;
-
-        //if array sorted condition ma
-
-        if(nums[left]<=nums[right]){
-            return nums[left];
-        }
-
-        //binary search kai concept
-
-        while(left<right){
-            //very large nu cha bhane overflow 
-            //if simple right-left by 2 garyo vane
+        int ans=Integer.MAX_VALUE;
+        while(left<=right){
             int mid=left+(right-left)/2;
 
-            if(nums[mid]>nums[right]){
-                //yei bich ma xa
+            if(nums[left]<=nums[mid]){
+                ans=Math.min(ans,nums[left]);
                 left=mid+1;
             }
             else{
-                right=mid;
+                right=mid-1;
+                ans=Math.min(ans,nums[mid]);
+
             }
 
         }
-        return nums[left];
+        return ans;
         
     }
 }
