@@ -147,6 +147,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/brihat2590/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/brihat2590/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/brihat2590/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/brihat2590/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/brihat2590/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/brihat2590/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -229,6 +230,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/brihat2590/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0605-can-place-flowers](https://github.com/brihat2590/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
