@@ -36,6 +36,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0796-rotate-string](https://github.com/brihat2590/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/brihat2590/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/brihat2590/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/brihat2590/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/brihat2590/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/brihat2590/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -165,6 +166,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/brihat2590/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/brihat2590/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/brihat2590/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/brihat2590/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/brihat2590/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/brihat2590/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/brihat2590/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
