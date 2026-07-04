@@ -46,6 +46,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/brihat2590/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/brihat2590/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/brihat2590/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/brihat2590/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/brihat2590/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/brihat2590/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -65,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/brihat2590/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/brihat2590/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/brihat2590/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/brihat2590/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0384-shuffle-an-array](https://github.com/brihat2590/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
@@ -287,6 +289,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/brihat2590/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/brihat2590/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/brihat2590/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
