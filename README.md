@@ -164,6 +164,7 @@
 | [0682-baseball-game](https://github.com/brihat2590/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/brihat2590/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/brihat2590/Leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0724-find-pivot-index](https://github.com/brihat2590/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/brihat2590/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/brihat2590/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/brihat2590/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -281,6 +282,7 @@
 | [0238-product-of-array-except-self](https://github.com/brihat2590/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/brihat2590/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/brihat2590/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/brihat2590/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
