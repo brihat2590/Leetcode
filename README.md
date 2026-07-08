@@ -193,6 +193,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/brihat2590/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brihat2590/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/brihat2590/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/brihat2590/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [2540-minimum-common-value](https://github.com/brihat2590/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -301,4 +302,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/brihat2590/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/brihat2590/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
