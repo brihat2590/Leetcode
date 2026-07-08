@@ -34,6 +34,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/brihat2590/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/brihat2590/Leetcode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/brihat2590/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0709-to-lower-case](https://github.com/brihat2590/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/brihat2590/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/brihat2590/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/brihat2590/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
